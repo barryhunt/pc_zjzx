@@ -1,5 +1,5 @@
 #coding=utf-8
-# auther by ‘yinjun’
+# auther by yinjun
 
   import requests
 import random
